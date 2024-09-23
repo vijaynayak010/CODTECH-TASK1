@@ -5,7 +5,8 @@ Domain : FRONTEND WEB DEEVELOPMENT
 Duration: Sep to oct 2024                                                                                    
 Mentor : Neela Santhosh
 
-Over view of Project
+Over view of Project                                                                                                  
+
 project:To-Do list Application Withlocal storage
 
 This web application serves as a simple to-do list manager. It allows users to create, edit, and delete tasks, as well as mark them as completed.
